@@ -1,4 +1,5 @@
 # tripplanner-ui
+Valgardena Tripplanner Public Issue Tracker
 
 **🚨 This is an issue-only repository 🚨**
 

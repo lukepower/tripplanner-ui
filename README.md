@@ -26,6 +26,10 @@ This repository is maintained for:
 - **No pull requests**: PRs will not be accepted as this is issue-only
 - **Active development**: Happens in [new-tripplanner-ui](https://github.com/lukepower/new-tripplanner-ui)
 
+## How to test
+- Development version might be up at this address [https://tp-gui.ngrok.app/]
+- Production version is at [tripplanner.valgardena.it]
+
 ## How to Contribute
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report issues and participate in discussions.

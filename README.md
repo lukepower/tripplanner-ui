@@ -8,31 +8,32 @@ Modern, responsive web frontend for the Val Gardena Trip Planner, powered by Ope
 
 </div>
 
-## Bugs and Feature suggestions
-Please use this repository to track bugs and feature requests. 
 
-## Features
+**🚨 This is an issue-only repository 🚨**
 
-- **Interactive Vector Map**: OpenStreetMap-based vector tile rendering using MapLibre GL
-- **Multilingual**: Full support for English, German, and Italian with i18n
-- **Mobile-First Design**: Optimized for smartphones with touch-friendly gestures
-- **Multiple Transport Modes**:
-  - Hiking (walking)
-  - Mountain biking
-  - Public buses
-  - Cable cars (gondolas, funivia, seilbahn)
-- **Route Visualization**:
-  - Elevation profiles with surface type indicators (road, gravel, trail, path)
-  - Transit mode tracking (bus, cable car, tram, train, ferry)
-  - Step-by-step directions with unicode arrow symbols
-  - Distance and duration breakdowns
-- **Geolocation Support**:
-  - Nominatim geocoding for location search
-  - Current location detection with browser Geolocation API
-  - Map click to set origin/destination
-- **Nearby Highlights**: POI discovery based on current location
-- **Date/Time Planning**: Plan routes for specific departure or arrival times
-- **Glass Design Language**: Modern UI with glassmorphism effects
+This repository serves as the public issue tracker for the Valgardena Trip Planner project. It is used as a reference by [new-tripplanner-ui](https://github.com/lukepower/new-tripplanner-ui).
+
+## Purpose
+
+This repository is maintained for:
+- **Issue tracking**: Report bugs, request features, and discuss improvements
+- **Reference documentation**: Historical context and discussions for the new implementation
+- **Community feedback**: A central place for users to provide feedback
+
+## ⚠️ Important Notes
+
+- **No code is hosted here**: This repository does not contain source code
+- **No pull requests**: PRs will not be accepted as this is issue-only
+- **Active development**: Happens in [new-tripplanner-ui](https://github.com/lukepower/new-tripplanner-ui)
+
+## How to Contribute
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report issues and participate in discussions.
+
+## Related Repositories
+
+- [new-tripplanner-ui](https://github.com/lukepower/new-tripplanner-ui) - Active development repository
+
 
 
 ## Author

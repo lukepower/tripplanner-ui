@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💻 Development Repository
+    url: https://github.com/lukepower/new-tripplanner-ui
+    about: Visit the active development repository for code contributions
+  - name: 📖 Documentation
+    url: https://github.com/lukepower/new-tripplanner-ui#readme
+    about: Read the documentation for the Trip Planner project
